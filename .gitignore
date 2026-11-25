@@ -3,7 +3,5 @@ DerivedData/
 build/
 xcuserdata/
 *.xcuserstate
-*.moved-aside
-*.hmap
 *.dSYM
 *.ipa
